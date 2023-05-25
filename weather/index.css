@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contaner{
+    height: 700px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #ffe100;
+}
+input{
+    height: 35px;
+    border-radius: 10px;
+}
+button{
+    margin: 20px;
+    width: 75px;
+    border-radius: 20px;
+}
